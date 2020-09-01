@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 251.7755 296.53265"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="triangle2.svg">
+  <metadata
+     id="metadata63">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs61" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview59"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.63197669"
+     inkscape:cx="366"
+     inkscape:cy="3"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <radialGradient
+     fx="437.49994"
+     fy="162.5"
+     cx="437.49994"
+     cy="162.5"
+     r="123.42638"
+     id="gradient1"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="translate(-274,-54.467346)">
+    <stop
+       offset="0.0%"
+       style="stop-color:#FFFFFE;stop-opacity:1.0"
+       id="stop5" />
+    <stop
+       offset="100.0%"
+       style="stop-color:#C399BA;stop-opacity:1.0"
+       id="stop7" />
+  </radialGradient>
+  <path
+     d="m 149.5189,20.757024 c 0,0 101.2566,73.29466 101.2566,73.29466 0,0 -73.2945,101.256616 -73.2945,101.256616 0,0 -101.25667,-73.29463 -101.25667,-73.29463 0,0 73.29457,-101.256646 73.29457,-101.256646 z"
+     id="path9"
+     inkscape:connector-curvature="0"
+     style="fill:url(#gradient1);stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+  <path
+     d="m 76,120.53265 c 0,0 100,75 100,75 0,0 -100,0 -100,0 0,0 0,-75 0,-75 z"
+     id="path11"
+     inkscape:connector-curvature="0"
+     style="fill:#fffefe;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+  <text
+     font-size="14.0"
+     x="129.60942"
+     y="85.516937"
+     transform="matrix(0.99997061,0.0079214,-0.00791713,0.99996668,0,0)"
+     stroke="#00000"
+     id="text13"
+     style="font-size:14.00000191px;fill:#000000;fill-opacity:1;stroke-width:0.99999988;stroke-opacity:0;font-family:sans-serif">Hypotenuse</text>
+  <radialGradient
+     fx="405"
+     fy="300"
+     cx="405"
+     cy="300"
+     r="85"
+     id="gradient2"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="translate(-274,-54.467346)">
+    <stop
+       offset="0.0%"
+       style="stop-color:#67B3D0;stop-opacity:1.0"
+       id="stop16" />
+    <stop
+       offset="100.0%"
+       style="stop-color:#436056;stop-opacity:1.0"
+       id="stop18" />
+  </radialGradient>
+  <path
+     d="m 76,195.53265 c 0,0 100,0 100,0 0,0 0,100 0,100 0,0 -100,0 -100,0 0,0 0,-100 0,-100 z"
+     id="path20"
+     inkscape:connector-curvature="0"
+     style="fill:url(#gradient2);stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+  <path
+     d="m 151,295.53265 c 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+     id="path22"
+     inkscape:connector-curvature="0"
+     style="fill:#436056;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+  <radialGradient
+     fx="312.5"
+     fy="212.5"
+     cx="312.5"
+     cy="212.5"
+     r="88.388351"
+     id="gradient3"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="translate(-274,-54.467346)">
+    <stop
+       offset="0.0%"
+       style="stop-color:#82DF9C;stop-opacity:1.0"
+       id="stop25" />
+    <stop
+       offset="100.0%"
+       style="stop-color:#000000;stop-opacity:1.0"
+       id="stop27" />
+  </radialGradient>
+  <path
+     d="m 76,120.53265 c 0,0 -75,0 -75,0 0,0 0,75 0,75 0,0 75,0 75,0 0,0 0,-75 0,-75 z"
+     id="path29"
+     inkscape:connector-curvature="0"
+     style="fill:url(#gradient3);stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+  <text
+     font-size="14.0"
+     x="9.7763386"
+     y="145.10924"
+     stroke="#00000"
+     id="text31"
+     style="font-size:14.00000763px;fill:#000000;fill-opacity:1;stroke-width:0.99999952;stroke-opacity:0;font-family:sans-serif">Opposite</text>
+  <text
+     font-size="14.0"
+     x="98.124519"
+     y="235.52106"
+     stroke="#00000"
+     id="text33"
+     style="font-size:13.99999237px;fill:#000000;fill-opacity:1;stroke-width:1.0000006;stroke-opacity:0;font-family:sans-serif">Adjacent</text>
+  <text
+     font-size="14.0"
+     x="116.79346"
+     y="210.21841"
+     id="text35"
+     style="font-size:14px;fill:#000000;fill-opacity:1;stroke:#1c1b7f;stroke-width:1;stroke-opacity:1;font-family:sans-serif">A</text>
+  <text
+     font-size="14.0"
+     x="127.75224"
+     y="149.79268"
+     transform="scale(1.0000011,0.99999892)"
+     id="text37"
+     style="font-size:13.99998474px;fill:#000000;fill-opacity:1;stroke:#a52e99;stroke-width:1;stroke-opacity:1;font-family:sans-serif">C</text>
+  <text
+     font-size="14.0"
+     x="59.966003"
+     y="163.71561"
+     id="text39"
+     style="font-size:14px;fill:#000000;fill-opacity:1;stroke:#116515;stroke-width:1;stroke-opacity:1;font-family:sans-serif">B</text>
+  <path
+     d="m 76,185.53265 c 0,0 10,0 10,0"
+     fill="#399BA"
+     id="path41"
+     inkscape:connector-curvature="0"
+     style="fill-opacity:0;stroke:#116515;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+  <path
+     d="m 81,195.53265 c 0,0 0,0 0,0"
+     fill="#399BA"
+     id="path43"
+     inkscape:connector-curvature="0"
+     style="fill-opacity:0;stroke:#116515;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+  <path
+     d="m 86,195.53265 c 0,0 0,-10 0,-10"
+     fill="#399BA"
+     id="path45"
+     inkscape:connector-curvature="0"
+     style="fill-opacity:0;stroke:#116515;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+  <path
+     d="m 172.10556,194.33075 c 0,0 -21.56592,-0.10633 -21.56592,-0.10633 -0.38312,-4.58154 -0.0754,-6.97204 2.85541,-10.51447 2.42361,-2.9294 7.67743,3.82087 6.32007,1.72251 0,0 12.39044,8.89829 12.39044,8.89829 z"
+     id="path47"
+     inkscape:connector-curvature="0"
+     style="fill:#c399ba;fill-opacity:1;stroke:#0c0c0c;stroke-width:2;stroke-opacity:1" />
+  <text
+     font-size="32.0"
+     x="27.090973"
+     y="175.81694"
+     stroke="#00000"
+     id="text49"
+     style="font-size:32px;fill:#000000;fill-opacity:1;stroke-width:1;stroke-opacity:0;font-family:sans-serif">3</text>
+  <text
+     font-size="32.0"
+     x="115.21645"
+     y="272.41849"
+     stroke="#00000"
+     id="text51"
+     style="font-size:31.9999733px;fill:#000000;fill-opacity:1;stroke-width:1.00000083;stroke-opacity:0;font-family:sans-serif">4</text>
+  <text
+     font-size="32.0"
+     x="154.73961"
+     y="124.18282"
+     stroke="#00000"
+     id="text53"
+     style="font-size:32.0000267px;fill:#000000;fill-opacity:1;stroke-width:0.99999917;stroke-opacity:0;font-family:sans-serif">5</text>
+  <text
+     font-size="24.0"
+     x="13.591801"
+     y="17.179688"
+     stroke="#00000"
+     id="text55"
+     style="font-size:24px;fill:#000000;fill-opacity:1;stroke-width:1;stroke-opacity:0;font-family:sans-serif">Pythagoras Theorem</text>
+  <text
+     font-size="32.0"
+     x="764.9491"
+     y="143.14227"
+     stroke="#00000"
+     id="text57"
+     style="font-size:32px;fill:#000000;fill-opacity:1;stroke-width:1;stroke-opacity:0;font-family:sans-serif" />
+</svg>

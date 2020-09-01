@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             >
+
+<LinearLayout
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/tiled_background"
+              android:paddingTop="@dimen/standard_text_padding"
+              android:baselineAligned="true">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_gravity="center"
+        android:src="@drawable/triangle2"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/triangle_hypotenuse_tv"
+        android:layout_gravity="center|left"
+        android:paddingLeft="@dimen/standard_text_padding"
+        android:paddingRight="@dimen/standard_text_padding"
+        android:textColor="#0000ff"
+        android:typeface="serif"
+        android:text="@string/triangle_text_hypotenuse_formulea"
+        android:paddingTop="5dp"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/triangle_text_rule_1"
+        android:id="@+id/triangle_rule_1_tv"
+        android:paddingLeft="@dimen/standard_text_padding"
+        android:paddingRight="@dimen/standard_text_padding"
+        android:textColor="#0000ff"
+        android:textSize="@dimen/freehandfontnormalsize"
+        android:typeface="serif"
+        android:paddingTop="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/triangle_text_rule_2"
+        android:id="@+id/triangle_rule_2_tv"
+        android:paddingLeft="@dimen/standard_text_padding"
+        android:paddingRight="@dimen/standard_text_padding"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/freehandfontnormalsize"
+        android:layout_gravity="center_vertical|left"
+        android:paddingTop="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/triangle_text_rule_3"
+        android:id="@+id/triangle_rule_3_tv"
+        android:layout_gravity="center|left"
+        android:paddingLeft="@dimen/standard_text_padding"
+        android:paddingRight="@dimen/standard_text_padding"
+        android:textSize="@dimen/freehandfontnormalsize"
+        android:textColor="#0000ff"
+        android:paddingTop="5dp"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/triangle_text_rule_4"
+        android:id="@+id/triangle_rule_4_tv"
+        android:paddingLeft="@dimen/standard_text_padding"
+        android:paddingRight="@dimen/standard_text_padding"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/freehandfontnormalsize"
+        android:paddingTop="5dp"/>
+
+
+</LinearLayout>
+</ScrollView>

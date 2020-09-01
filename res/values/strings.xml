@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ElectricalApp</string>
+    <string name="triangle_text_hypotenuse_formulea">H2 = p2 + b2 or H = square root (b2 + p2)</string>
+    <string name="triangle_text_rule_1">Hypotenuse is always the longest edge.</string>
+    <string name="triangle_text_rule_2">Ratio of the 3 4 5 will work for any 90 degree right angle triangle.</string>
+    <string name="triangle_text_rule_3">The 90 degree square corner points to the Hypotenuse.</string>
+    <string name="triangle_text_rule_4">All three angles always add up to 180 degrees.</string>
+</resources>
